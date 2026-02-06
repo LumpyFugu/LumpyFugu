@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm LumpyFugu
 
 <!--
 **LumpyFugu/LumpyFugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,75 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👩🏻‍🎓 Bachlor’s Student in Information System | Shanghai Ocean University & University of Tasmania(Shanghai, China)<br>
+🎓 Master’s Student in Science and Technology | Sophia University (Tokyo, Japan)<br>
+👩🏻‍💻 Open to global opportunities in AI / Data / Tech.
+
+I specialize in:
+
+- Natural Language Processing
+- Machine Translation  　
+- Website Development   
+
+---
+
+## 🔬 Featured Project
+
+👉 Research on Entity-aware Neural Machine Translation  时间写上 
+Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
+
+✔ Improved semantic alignment<br> 
+✔ Experimented with gated fusion mechanisms<br>
+✔ Evaluated with BLEU & F1  
+
+👉 Website for Travel Introduction  
+Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
+
+✔ Improved semantic alignment  
+✔ Experimented with gated fusion mechanisms
+✔ Evaluated with BLEU & F1  
+
+👉 Website for Online Shopping  
+Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
+
+✔ Improved semantic alignment  
+✔ Experimented with gated fusion mechanisms
+✔ Evaluated with BLEU & F1  
+
+👉 Research on Text Similarity Matching and Retrieval Algorithm
+Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
+
+✔ Improved semantic alignment  
+✔ Experimented with gated fusion mechanisms
+✔ Evaluated with BLEU & F1  
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:**  
+Python, SQL, JavaScript, HTML, CSS
+
+**ML / NLP:**  
+PyTorch, Fairseq, Transformers, Gensim 
+
+**Web Dev:**  
+Node.js, MySQL, Django
+
+**Other:**  
+Git
+
+---
+
+## 🌏 Languages
+
+Chinese (Native)  
+Japanese (N1)  
+English (TOEFL 92; TOEIC 845)
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/xiyuchen00/  
+Email: xiyuchen.0722@gmail.com
