@@ -21,35 +21,35 @@ Here are some ideas to get you started:
 I specialize in:
 
 - Natural Language Processing
-- Machine Translation  　
+- Machine Learning  　
 - Website Development   
 
 ---
 
 ## 🔬 Featured Project
 
-👉 Research on Entity-aware Neural Machine Translation  时间写上 
+👉 Research on Entity-aware Neural Machine Translation, April. 2024 – Jan. 2026   
 Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
 
 ✔ Improved semantic alignment<br> 
 ✔ Experimented with gated fusion mechanisms<br>
 ✔ Evaluated with BLEU & F1  
 
-👉 Website for Travel Introduction  
+👉 Website for Travel Introduction, Sept. 2020 – Nov. 2020  
 Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
 
 ✔ Improved semantic alignment  
 ✔ Experimented with gated fusion mechanisms
 ✔ Evaluated with BLEU & F1  
 
-👉 Website for Online Shopping  
+👉 Website for Online Shopping, March. 2021 – June. 2021  
 Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
 
 ✔ Improved semantic alignment  
 ✔ Experimented with gated fusion mechanisms
 ✔ Evaluated with BLEU & F1  
 
-👉 Research on Text Similarity Matching and Retrieval Algorithm
+👉 Research on Text Similarity Matching and Retrieval Algorithm, Sept. 2021 – March. 2022  
 Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
 
 ✔ Improved semantic alignment  
