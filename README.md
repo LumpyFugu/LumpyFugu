@@ -52,9 +52,9 @@ Compared and applied Word2Vec, Doc2Vec and Latent Dirichlet Allocation by Gensim
 👉 Research on Entity-aware Neural Machine Translation, April. 2024 – Jan. 2026   
 Designed a Transformer enhanced with Wikipedia2Vec knowledge embeddings.
 
-✔ Developed an entity-aware Neural Machine Translation model by incorporating knowledge graph embeddings into a Transformer architecture
-✔ Engineered learnable gating and feature fusion strategies to optimize the interaction between token embeddings and external knowledge
-✔ Performed systematic evaluations and ablation studies, generating insights into effective knowledge integration for NMT  
+✔ Developed an entity-aware Neural Machine Translation model by incorporating knowledge graph embeddings into a Transformer architecture  
+✔ Engineered learnable gating and feature fusion strategies to optimize the interaction between token embeddings and external knowledge  
+✔ Performed systematic evaluations and ablation studies, generating insights into effective knowledge integration for NMT   
 
 
 ---
