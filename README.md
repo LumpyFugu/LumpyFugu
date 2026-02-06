@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🎓 Master’s Student in Science and Technology | Sophia University (Tokyo, Japan)<br>
 👩🏻‍💻 Open to global opportunities in AI / Data / Tech.
 
-I specialize in:
+I specialize in✨:
 
 - Natural Language Processing
 - Machine Learning  　
