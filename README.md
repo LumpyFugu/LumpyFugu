@@ -1,4 +1,4 @@
-## Hi there 👋 I'm LumpyFugu
+## Hi there 👋 I'm LumpyFugu 🐡
 
 <!--
 **LumpyFugu/LumpyFugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
