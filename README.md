@@ -82,7 +82,7 @@ Git
 
 Chinese (Native)  
 Japanese (N1)  
-English (TOEFL 92; TOEIC 845)
+English (TOEFL 92; TOEIC 845; CET-6)
 
 ---
 
