@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍🎓 Bachlor’s Student in Information System | Shanghai Ocean University & University of Tasmania(Shanghai, China)<br>
+👩🏻‍🎓 Bachlor’s Student in Information System | Shanghai Ocean University & University of Tasmania (Shanghai, China)<br>
 🎓 Master’s Student in Science and Technology | Sophia University (Tokyo, Japan)<br>
-👩🏻‍💻 Open to global opportunities in AI / Data / Dev.
+👩🏻‍💻 Open to global opportunities in AI / Data / Dev
 
 I specialize in✨:
 
