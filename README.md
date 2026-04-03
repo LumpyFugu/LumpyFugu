@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👩🏻‍🎓 Bachlor’s Student in Information System | Shanghai Ocean University & University of Tasmania (Shanghai, China)<br>
-🎓 Master’s Student in Science and Technology | Sophia University (Tokyo, Japan)<br>
+🦅 Master’s Student in Science and Technology | Sophia University (Tokyo, Japan)<br>
 👩🏻‍💻 Open to global opportunities in AI / Data / Dev
 
 I specialize in✨:
@@ -28,7 +28,7 @@ I specialize in✨:
 
 ## 🔬 Featured Project
 
-👉 Website for Travel Introduction, Sept. 2020 – Nov. 2020  
+👉 Website Prototype for Travel Introduction, Sept. 2020 – Nov. 2020  
 Designed a website to introduce how to travel in China and Australia.
 
 ✔ Designed the website layout and overall structure  
@@ -36,12 +36,15 @@ Designed a website to introduce how to travel in China and Australia.
 ✔ Implemented interactive UI components (carousel, dropdown menus)  
 
 
-👉 Website for Online Shopping, March. 2021 – June. 2021  
-Designed an e-commerce system for a cake shop using a separated frontend and backend architecture.
+👉 Data Visualization for Online Shopping Site, March. 2021 – June. 2021  
+Designed a data analysis dashboard for an e-commerce system to describe user portrait and sales situation.  
 
-✔ Developed core e-commerce functionalities, including product APIs, shopping cart, and order management workflow  
-✔ Implemented secure user authentication and authorization using JWT  
-✔ Built analytics dashboards with aggregated order data, enabling product filtering and visualization of sales trends  
+✔ Built visualizations including top 5 selling products, monthly revenue trends, and customer demographics (gender & age groups)  
+✔ Selected appropriate chart types (bar, line, pie) based on data characteristics for better interpretability  
+✔ Implemented product-level filtering functionality for interactive analysis  
+
+
+👉 Hospital Readmission Risk Analysis,   
 
 
 👉 Research on Text Similarity Matching and Retrieval Algorithm, Sept. 2021 – March. 2022  
@@ -71,7 +74,7 @@ Python, SQL, JavaScript, HTML, CSS
 PyTorch, Fairseq, Transformers, Gensim 
 
 **Web Dev:**  
-Node.js, MySQL, Django
+Node.js, React, Express, MySQL, Django
 
 **Other:**  
 Git
